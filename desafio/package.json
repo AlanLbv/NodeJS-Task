@@ -1,0 +1,17 @@
+{
+  "name": "desafio",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-generate": "^4.4.1",
+    "csv-parse": "^5.5.6"
+  }
+}
